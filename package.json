@@ -2,7 +2,7 @@
   "name": "lempthree",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Cubecheap.github.io/cs_job_portal",
+  "homepage": "https://Cubecheap.github.io/cs_job_finder",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
